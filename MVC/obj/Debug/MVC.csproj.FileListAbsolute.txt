@@ -1,0 +1,92 @@
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\ApplicationInsights.config
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\roslyn\csc.exe
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\roslyn\System.Collections.Immutable.dll
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\roslyn\vbc.exe
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\roslyn\VBCSCompiler.exe
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\roslyn\VBCSCompiler.exe.config
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\MVC.dll.config
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\MVC.dll
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\MVC.pdb
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.AI.Web.dll
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.AI.WindowsServer.dll
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.ApplicationInsights.dll
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.Helpers.dll
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.Mvc.dll
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.Razor.dll
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.Webpages.Deployment.dll
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.Webpages.dll
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.Webpages.Razor.dll
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.AI.Web.xml
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.AI.WindowsServer.xml
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.ApplicationInsights.xml
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.Razor.xml
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.Webpages.xml
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.Webpages.Deployment.xml
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.Webpages.Razor.xml
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.Helpers.xml
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\bin\System.Web.Mvc.xml
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\obj\Debug\MVC.csprojResolveAssemblyReference.cache
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\obj\Debug\MVC.dll
+c:\users\maryam-pc\documents\visual studio 2015\Projects\MVC\MVC\obj\Debug\MVC.pdb
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\ApplicationInsights.config
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\roslyn\csc.exe
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\roslyn\vbc.exe
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\MVC.dll.config
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\MVC.dll
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\MVC.pdb
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\Microsoft.AI.Web.dll
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\System.Web.Helpers.dll
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\System.Web.Mvc.dll
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\System.Web.Razor.dll
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\System.Web.Webpages.dll
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\Microsoft.AI.Web.xml
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\System.Web.Razor.xml
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\System.Web.Webpages.xml
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\System.Web.Helpers.xml
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\bin\System.Web.Mvc.xml
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\obj\Debug\MVC.csprojResolveAssemblyReference.cache
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\obj\Debug\MVC.dll
+C:\Users\Maryam-Pc\Source\Repos\mvc\MVC\obj\Debug\MVC.pdb
